@@ -11,6 +11,8 @@ The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS) was use
 
 ### Code details
 
-CNN.ipynb -- This is the model used for training the data
-Live_testing.py -- Code for live prediction by accepting a real time user audio for emotion recognition
+##### CNN.ipynb -- This is the model used for training the data
+##### Live_testing.py -- Code for live prediction by accepting a real time user audio for emotion recognition
+
+![](images/Live_testing.png)
 

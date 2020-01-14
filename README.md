@@ -3,7 +3,7 @@ We use speech to determine the emotion of a user. We make use of the vocal chara
 The building blocks of the module consists of identifying the emotion of a given user and recommending songs which mirror the mood of the user, meanwhile suggesting the songs that the user should listen to improve the mood. This takes a live audio sample of the user as input and processes it to predict the emotion. The emotion is mapped to a few related songs which is displayed in the console for the user to choose from.
 
 
-![]()
+![](images/FlowDiagram.png)
 
 ### Dataset used for Music Recommendation module 
  
